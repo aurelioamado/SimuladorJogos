@@ -12,7 +12,7 @@
 
 <?php
 
-$select = $_POST["select"];
+$select = $_POST['select']??'';
 
 
 
